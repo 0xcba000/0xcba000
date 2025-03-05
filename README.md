@@ -8,7 +8,6 @@
                 <img src="https://github.com/focamacho/Focamacho/blob/main/images/ditto.gif" height=32px alt="Pokémon Ditto Dancing">
             </h1>
         
-    <br/>
-    <img src="https://github.com/focamacho/Focamacho/blob/main/images/cat.gif" alt="Cat Gif"/>
-</div>
+
+ 
 
